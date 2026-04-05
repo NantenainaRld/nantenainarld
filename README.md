@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00ff00,100:000000&height=200&section=header&text=Nantenaina%20Rld&fontColor=00ff00&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=Nantenaina%20Rld&reversal=true&fontColor=ffffff&animation=twinkling&stroke=gradient"/>
 </p>
 <!-- TYPING -->
 <p align="center">
@@ -30,7 +30,8 @@ Mobile • Desktop • Backend • Network • Security
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,python,cpp,dart"/>
-</p>---
+</p>
+---
 
 📊 GitHub Stats
 
@@ -38,19 +39,22 @@ Mobile • Desktop • Backend • Network • Security
   <img src="https://github-readme-stats.vercel.app/api?username=nantenainarld&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=nantenainarld&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
+---
 
 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nantenainarld&theme=tokyo-night"/>
-</p>---
+</p>
+---
 
 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nantenainarld&theme=matrix"/>
-</p>---
+</p>
+---
 
 🐍 Contribution Snake
 
@@ -89,8 +93,7 @@ Mobile • Desktop • Backend • Network • Security
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nantenainarld&label=PROFILE+VIEWS&color=00ff00&style=flat"/>
-</p>---
-
+</p>
 ---
 
 ### 📊 GitHub Stats
