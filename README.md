@@ -33,7 +33,7 @@ Mobile • Desktop • Fullstack • Network • Security
 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,python,cpp,dart"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,python,cpp,dart,kotlin"/>
 </p>
 
 ---
