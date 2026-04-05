@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXM0NGd6cmZsMWN0YnZ3dXl0dG93aXF2Mno0c21neWZuZXllYXF1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500"/>
 </p>
+
 ---
 
 > whoami
@@ -31,6 +32,7 @@ Mobile • Desktop • Backend • Network • Security
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,python,cpp,dart"/>
 </p>
+
 ---
 
 📊 GitHub Stats
@@ -40,6 +42,7 @@ Mobile • Desktop • Backend • Network • Security
   <br/>
   <img src="https://streak-stats.demolab.com/?user=nantenainarld&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 📈 Activity Graph
@@ -47,6 +50,7 @@ Mobile • Desktop • Backend • Network • Security
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nantenainarld&theme=tokyo-night"/>
 </p>
+
 ---
 
 🏆 Achievements
@@ -54,6 +58,7 @@ Mobile • Desktop • Backend • Network • Security
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nantenainarld&theme=matrix"/>
 </p>
+
 ---
 
 🐍 Contribution Snake
@@ -61,6 +66,7 @@ Mobile • Desktop • Backend • Network • Security
 <p align="center">
   <img src="https://raw.githubusercontent.com/nantenainarld/nantenainarld/output/github-contribution-grid-snake.svg"/>
 </p>
+
 ---
 
 🌐 Connect
@@ -88,6 +94,7 @@ Mobile • Desktop • Backend • Network • Security
     <img src="https://img.shields.io/badge/📞%20+261%2033%2059%20464%2038-000000?style=for-the-badge&logo=phone&logoColor=00FF00"/>
   </a>
 </p>
+
 ---
 
 👁️ Profile Views
@@ -95,6 +102,7 @@ Mobile • Desktop • Backend • Network • Security
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nantenainarld&label=PROFILE+VIEWS&color=00ff00&style=flat"/>
 </p>
+
 ---
 
 ### 🧠 Fun Fact
