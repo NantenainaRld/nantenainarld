@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=Nantenaina%20Rld&reversal=true&fontColor=ffffff&animation=twinkling&stroke=gradient"/>
 </p>
+<p align="center">
+🇲🇬🇲🇬🇲🇬🇲🇬🇲🇬🇲🇬
+</p>
 <!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;App+%26+Game+Creator;Express+%26+Node+Specialist;Network+%26+Security+Mind;Code+Without+Limits&center=true&width=600&height=50&color=00FF00">
@@ -20,7 +23,7 @@ Nantenaina Rld
 Web Dev | App Dev | Game Dev
 
 > system
-Mobile • Desktop • Backend • Network • Security
+Mobile • Desktop • Fullstack • Network • Security
 
 > motto
 "Code is power. Limits exist only in the mind."
