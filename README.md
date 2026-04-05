@@ -60,7 +60,8 @@ Mobile • Desktop • Backend • Network • Security
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nantenainarld/nantenainarld/output/github-contribution-grid-snake.svg"/>
-</p>---
+</p>
+---
 
 🌐 Connect
 
@@ -94,16 +95,6 @@ Mobile • Desktop • Backend • Network • Security
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nantenainarld&label=PROFILE+VIEWS&color=00ff00&style=flat"/>
 </p>
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nantenainarld&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=nantenainarld&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 🧠 Fun Fact
